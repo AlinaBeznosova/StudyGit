@@ -22,6 +22,9 @@
       "NameGuid": "70acaaa4-9dd3-4088-b726-6a82f68d6427",
       "BackgroundPosition": "Stretch"
     }
+    },
+    "RemoteControls": [],
+    "Tabs": []
   },
   "Dependencies": [
     {
@@ -34,6 +37,10 @@
   "ExplorerTreeOrder": [
     {
       "ItemId": "777801d5-52c2-4f93-8d21-6bdfd81dd813"
+    },
+    {
+      "ItemId": "412fe6d3-652a-4ebb-b625-5449831447b4",
+      "PreviousItemId": "ce9ca279-d26c-474d-9896-ae5011d49114"
     }
   ],
   "IconResourcesKeys": [],
