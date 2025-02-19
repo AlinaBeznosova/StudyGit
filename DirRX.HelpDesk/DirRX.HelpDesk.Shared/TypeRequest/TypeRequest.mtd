@@ -59,11 +59,17 @@
       "PreviousPropertyGuid": "1dcedc29-5140-4770-ac92-eabc212326a1"
     },
     {
-      "$type": "Sungero.Metadata.StringPropertyMetadata, Sungero.Metadata",
-      "NameGuid": "b338c39e-2186-4af8-b40d-4f5aa18e4535",
-      "Name": "Note",
-      "Code": "Note",
-      "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.StringEditorToStringBinder",
+          "NameGuid": "debeb164-a831-4a0b-8fb9-696a8118ba75",
+          "Name": "access",
+          "Code": "access"
+        },
+        {
+          "NameGuid": "0f771882-6d62-4295-9fb8-432cba5e38a0",
+          "Name": "wish",
+          "Code": "wish"
+        }
+      ],
+      "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.DropDownEditorToEnumerationBinder",
       "PreviousPropertyGuid": "749bf7eb-a948-4e28-862b-efe28518a299"
     }
   ],
